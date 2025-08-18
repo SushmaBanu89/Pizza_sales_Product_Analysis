@@ -49,7 +49,7 @@ This project explores a retail pizza sales dataset to derive actionable business
 - Revenue-based ranking of pizza types
 
 ### 🛠️ Tools Used:
-- DB Browser or MySQL Workbench
+- MySQL Workbench
 - Power BI 
 
 
